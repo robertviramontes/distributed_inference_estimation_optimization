@@ -1,0 +1,1 @@
+Samples distributed under [ImageNette](https://github.com/fastai/imagenette) Apache 2.0 License. See LICENSE file in this directory. 
