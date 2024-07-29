@@ -1,7 +1,7 @@
 # Distributed Inference Estimation and Optimization
 This is the distributed inference estimation and optimization project. This code and data have been used for the works 
 
-- DIME: Distributed Inference Model Estimation for Minimizing Profiled Latency, *Robert Viramontes and Azadeh Davoodi*. [Published in SmartComp 2024](https://doi.org/10.1109/SMARTCOMP61445.2024.00081)
+- R. Viramontes and A. Davoodi, "DIME: Distributed Inference Model Estimation for Minimizing Profiled Latency," *2024 IEEE International Conference on Smart Computing (SMARTCOMP)*, Osaka, Japan, 2024, pp. 356-361, [doi: 10.1109/SMARTCOMP61445.2024.00081](https://doi.org/10.1109/SMARTCOMP61445.2024.00081).
 
 ## Related Publications
 
